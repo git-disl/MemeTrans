@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==2.0.2
+matplotlib==3.7.1
+xgboost==2.1.4
+torch==2.7.1
+scikit-learn==1.2.2
+lightgbm==4.6.0
