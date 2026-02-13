@@ -39,6 +39,3 @@ raw data and will release it soon via an external link.
 If you have any questions, please open an issue or contact the corresponding author at: husihao26@gmail.com
 
 We will respond as soon as possible.
-# MemeTrans
-# MemeTrans
-# MemeTrans
