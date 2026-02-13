@@ -1,3 +1,4 @@
 /.idea
-/raw_data
+/raw_data/post_migration_tx
+/raw_data/pre_migration_tx
 /.DS_Store
