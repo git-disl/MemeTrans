@@ -1,7 +1,5 @@
 # MemeTrans
 
-This repository has been superseded. Please refer to the new version:
+This repository has been renamed to **MELT**. Please refer to the new repository:
 
 **https://github.com/git-disl/MELT**
-
-All updates — including the latest dataset, features, and training code — are maintained there.
